@@ -1,4 +1,4 @@
 # Practica_UNITBV
 ## Descriere-tutorial python
-[Acest tutorial va oferii cunostintele necesare invatarii limbajului de programare python.](learnpython.com)  
-![UNITBV](https://upload.wikimedia.org/wikipedia/commons/e/e2/Sigla_UNITBV1.png)
+[Acest tutorial va oferii cunostintele necesare invatarii limbajului de programare python.](www.learnpython.com)  
+![UNITBV](https://succes.unitbv.ro/wp-content/uploads/2022/11/Logo-UT-NEGRU-RO-png.png)
